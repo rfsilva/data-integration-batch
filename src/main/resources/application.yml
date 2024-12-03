@@ -1,0 +1,18 @@
+spring:
+  main:
+    web-application-type: none
+  application:
+    name: data-integration-batch
+  batch:
+    job:
+      enabled: true
+
+file:
+  input-file: C:/develop/data-integration/massa.json
+
+service:
+  token-path: http://localhost:8080/realms/data-integration-realm/protocol/openid-connect/token
+  data-integration:
+    host: http://localhost:8085/api
+    client-id: data-integration-api
+    client-secret: UtZkKm3LpGhrkYvgViaITdz3sSdTSgEV

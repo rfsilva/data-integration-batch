@@ -1,0 +1,11 @@
+br\com\rodrigo\inclusao_batch\listener\JobCompletionNotificationListener.class
+br\com\rodrigo\inclusao_batch\InclusaoBatchApplication.class
+br\com\rodrigo\inclusao_batch\dto\CampoOperacaoDTO.class
+br\com\rodrigo\inclusao_batch\config\BatchConfig.class
+br\com\rodrigo\inclusao_batch\dto\CampoOperacaoDTO$CampoOperacaoDTOBuilder.class
+br\com\rodrigo\inclusao_batch\dto\OperacaoCicloDTO$OperacaoCicloDTOBuilder.class
+br\com\rodrigo\inclusao_batch\dto\OperacaoCicloDTO.class
+br\com\rodrigo\inclusao_batch\generator\OperacaoCicloGenerator.class
+br\com\rodrigo\inclusao_batch\config\BatchConfig$1$1.class
+br\com\rodrigo\inclusao_batch\processor\UserItemProcessor.class
+br\com\rodrigo\inclusao_batch\config\BatchConfig$1.class

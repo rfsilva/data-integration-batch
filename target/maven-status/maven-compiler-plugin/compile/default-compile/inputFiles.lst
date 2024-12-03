@@ -1,0 +1,7 @@
+C:\develop\terminal\terminal-inclusao-batch\src\main\java\br\com\rodrigo\inclusao_batch\dto\CampoOperacaoDTO.java
+C:\develop\terminal\terminal-inclusao-batch\src\main\java\br\com\rodrigo\inclusao_batch\config\BatchConfig.java
+C:\develop\terminal\terminal-inclusao-batch\src\main\java\br\com\rodrigo\inclusao_batch\listener\JobCompletionNotificationListener.java
+C:\develop\terminal\terminal-inclusao-batch\src\main\java\br\com\rodrigo\inclusao_batch\processor\UserItemProcessor.java
+C:\develop\terminal\terminal-inclusao-batch\src\main\java\br\com\rodrigo\inclusao_batch\generator\OperacaoCicloGenerator.java
+C:\develop\terminal\terminal-inclusao-batch\src\main\java\br\com\rodrigo\inclusao_batch\InclusaoBatchApplication.java
+C:\develop\terminal\terminal-inclusao-batch\src\main\java\br\com\rodrigo\inclusao_batch\dto\OperacaoCicloDTO.java
