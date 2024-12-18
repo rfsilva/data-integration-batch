@@ -4,15 +4,16 @@ spring:
   application:
     name: data-integration-batch
   batch:
+
     job:
       enabled: true
 
 file:
-  input-file: C:/develop/data-integration/massa.json
+  input-file: ${DATA_INTEGRATION_BATCH_INPUT_FILE}
 
 service:
-  token-path: http://localhost:8080/realms/data-integration-realm/protocol/openid-connect/token
+  token-path: ${KEYCLOAK_TOKEN_PATH}
   data-integration:
-    host: http://localhost:8085/api
-    client-id: data-integration-api
-    client-secret: UtZkKm3LpGhrkYvgViaITdz3sSdTSgEV
+    host: ${DATA_INTEGRATION_API_HOST}
+    client-id: ${DATA_INTEGRATION_API_CLIENT_ID}
+    client-secret: ${DATA_INTEGRATION_API_CLIENT_SECRET}

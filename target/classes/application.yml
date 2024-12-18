@@ -4,6 +4,7 @@ spring:
   application:
     name: data-integration-batch
   batch:
+
     job:
       enabled: true
 
@@ -15,4 +16,4 @@ service:
   data-integration:
     host: http://localhost:8085/api
     client-id: data-integration-api
-    client-secret: UtZkKm3LpGhrkYvgViaITdz3sSdTSgEV
+    client-secret: EjpeurjaNVfAbYH8Y2nZNwD4nKg58F2P
